@@ -1,0 +1,24 @@
+$primary : #F33;
+$secondary: papayawhip;
+$inps: 'Arial, sans-serif';
+$pad30: 30px;
+
+body {
+    background-color: $secondary;
+    color: $primary;
+}
+
+p {
+    color: $secondary;
+    background-color: $primary;
+    padding: $pad30;
+}
+
+h1 {
+    font-family: $inps;
+}
+
+h2{
+    padding: $pad30;
+}
+

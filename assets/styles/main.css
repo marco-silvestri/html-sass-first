@@ -1,0 +1,20 @@
+body {
+  background-color: papayawhip;
+  color: #F33;
+}
+
+p {
+  color: papayawhip;
+  background-color: #F33;
+  padding: 30px;
+}
+
+h1 {
+  font-family: "Arial, sans-serif";
+}
+
+h2 {
+  padding: 30px;
+}
+
+
